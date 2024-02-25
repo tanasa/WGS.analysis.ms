@@ -13,7 +13,7 @@ library(kableExtra)
 # sv_vcf =
 # sample = 
 
-# SVINDEL = "strelka2.consensus.snpEff.annotated.intersected.filtered.hg38.vcf" 
+# SVINDEL = "strelka2.filtered.hg38.vcf" 
 # SV = "manta.somatic.svs.hg38.vcf"
 # SAMPLE ="EE"
 
